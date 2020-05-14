@@ -4,15 +4,17 @@ This is the code and setup instructions for my presentation 19 May 2020 for the 
 
 ## Setup
 
-I will be covering the first chapter of [Tiny Python Projects](http://tinypythonprojects.com/) to explain how to write a Python program that is
+I will be covering the first chapter of [Tiny Python Projects](http://tinypythonprojects.com/) to explain how to write a Python program that is:
 
 * parameterized (will accept arguments)
-* documented (will generate a "usage" statement when asked)
-* tested 
-* reproducible
+* documented (a README, program will generate a "usage" statement when asked)
+* tested (using `pytest`)
+* reproducible 
 
 I will live-code the `hello.py` example that starts from printing "Hello, World!" and moves through how to write a more flexible version that can greet a given argument.
 If you would like to code along, you can work locally on your own machine or use a free instance on repl.it to write in your browser.
+
+A PDF of the chapter is [included](tpp-ch1-hello.pdf).
 
 ### Setting up a local dev environment
 
