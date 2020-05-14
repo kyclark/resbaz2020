@@ -54,13 +54,14 @@ python3 --version
 If you have 3.6 or better, you are fine.
 If Python is not installed or you have an earlier version, you can download the latest version from https://www.python.org/downloads.
 
-You can also install `make` if do not already have it as I demonstrate the command `make test` as a shortcut for running the test suite.
-If you would like to know more about Make, I wrote https://github.com/kyclark/make-tutorial[a tutorial you can read].
+You can also install `make` if you do not already have it.
+I demonstrate the command `make test` as a shortcut for running the test suite.
+If you would like to know more about `make`, I wrote https://github.com/kyclark/make-tutorial[a tutorial you can read].
 
 === Using repl.it to code in your browser
 
-If you are unable to set up a local development environment, e.g., you are using a Chromebook with no local storage or you do not have administrative privileges on your machine, you can use [repl.it](http://repl.it) for free.
-For this, you will really need to fork the https://github.com/kyclark/tiny_python_projects[Tiny Python Projects repo] into your own GitHub account.
+If you are unable to set up a local development environment, e.g., you are using a Chromebook with no local storage or you do not have administrative privileges on your machine, you can use http://repl.it for free.
+For this, you will really need to fork the https://github.com/kyclark/tiny_python_projects into your own GitHub account.
 
 Then do the following:
 
