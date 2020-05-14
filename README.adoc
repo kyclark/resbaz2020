@@ -14,11 +14,11 @@ I will be covering the first chapter of http://tinypythonprojects.com/[Tiny Pyth
 I will live-code the `hello.py` example that starts from printing "Hello, World!" and moves through how to write a more flexible version that can greet a given argument.
 If you would like to code along, you can work locally on your own machine or use a free instance on repl.it to write in your browser.
 
-A PDF of the chapter is tpp-ch1-hello.pdf[included].
+A PDF of the chapter is included as `tpp-ch1-hello.pdf`.
 
 == Getting the code
 
-I will be using the [code/test.py](code.test.py) program to test the program.
+I will be using the `test.py` program found in the `code` directory to test our program.
 You can copy this program to your local machine or you might prefer to clone this repo to your local machine with this command:
 
 ----
