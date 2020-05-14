@@ -1,2 +1,3 @@
-# resbaz2020
-Presentation for UA ResBaz 2020
+# Presentation for UA ResBaz 2020
+
+https://researchbazaar.arizona.edu/
