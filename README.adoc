@@ -72,3 +72,7 @@ Then do the following:
 5. Click on “Import from GitHub”. Authorize repl.it to use your GitHub.
 6. Select your “tiny_python_projects” from the dropdown list.
 7. In the terminal window, run `python3 -m pip install -r requirements.txt` to install the required modules.
+
+== See Also
+
+I briefly mention https://www.gnu.org/software/make/[GNU Make] in the narrative. I wrote https://github.com/kyclark/make-tutorial[a Make tutorial] to explain the many ways I horribly abuse Make to document and run commands and workflows.
