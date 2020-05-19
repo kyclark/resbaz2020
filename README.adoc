@@ -1,6 +1,6 @@
 = Presentation for UA ResBaz 2020
 
-This is the code and setup instructions for my presentation 19 May 2020 for the University of Arizona's [Research Bazaar](https://researchbazaar.arizona.edu/).
+This is the code and setup instructions for my presentation 19 May 2020 for the University of Arizona's https://researchbazaar.arizona.edu/[Research Bazaar].
 
 == Setup
 
@@ -11,7 +11,7 @@ I will be covering the first chapter of http://tinypythonprojects.com/[Tiny Pyth
 * tested (using `pytest`)
 * reproducible 
 
-I will live-code the `hello.py` example that starts from printing "Hello, World!" and moves through how to write a more flexible version that can greet a given argument.
+I will live-code the `hello.py` example that starts from printing "Hello, World!" and then goes on to a more flexible version that can greet a given argument.
 If you would like to code along, you can work locally on your own machine or use a free instance on repl.it to write in your browser.
 
 A PDF of the chapter is included as `tpp-ch1-hello.pdf`.
@@ -72,7 +72,3 @@ Then do the following:
 5. Click on “Import from GitHub”. Authorize repl.it to use your GitHub.
 6. Select your “tiny_python_projects” from the dropdown list.
 7. In the terminal window, run `python3 -m pip install -r requirements.txt` to install the required modules.
-
-== See Also
-
-I briefly mention https://www.gnu.org/software/make/[GNU Make] in the narrative. I wrote https://github.com/kyclark/make-tutorial[a Make tutorial] to explain the many ways I horribly abuse Make to document and run commands and workflows.
