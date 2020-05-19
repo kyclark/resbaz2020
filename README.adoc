@@ -30,7 +30,7 @@ Another alternative is to "fork" the repo to copy it into your own account:
 1. Create an account on GitHub.com
 2. Click on the "Fork" button on this page.
 
-This is a copy of the chapter of https://github.com/kyclark/tiny_python_projects[Tiny Python Projects repo].
+This is a copy of the first chapter of https://github.com/kyclark/tiny_python_projects[Tiny Python Projects repo].
 If you think you might like to work further into the material, you might instead fork that repo. 
 
 Both repos have a `requirements.txt` file that lists modules we will need to format and test our code.
